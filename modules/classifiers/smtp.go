@@ -1,10 +1,11 @@
 package classifiers
 
 import (
+	"strings"
+
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
-	"github.com/mushorg/go-dpi/types"
-	"strings"
+	"github.com/nayyara-samuel/go-dpi/types"
 )
 
 // SMTPClassifier struct

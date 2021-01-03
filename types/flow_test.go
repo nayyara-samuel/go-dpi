@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
-	"github.com/mushorg/go-dpi/utils"
+	"github.com/nayyara-samuel/go-dpi/utils"
 )
 
 func TestNewFlow(t *testing.T) {
